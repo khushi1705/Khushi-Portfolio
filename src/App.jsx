@@ -4,7 +4,7 @@ import About from './components/About/About';
 
 import Contact from './components/Contact/contact';
 import Counter from './components/Counter/Counter';
-import Navbar from './components/navbar/navbar';
+import Navbar from './components/navbar/Navbar';
  import { Route, Routes } from 'react-router-dom'
  import Project from './components/Project/Project'
  import Home from './components/Home/Home'
